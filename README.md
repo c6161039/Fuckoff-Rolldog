@@ -13,3 +13,6 @@ chat use !anti_roll
 控制台输入sm_anti_roll
 
 聊天栏输入!anti_roll
+
+# 使用方法
+本插件只检测Z轴 由于csgo复活的问题 故不检测X Y
