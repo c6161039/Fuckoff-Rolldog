@@ -6,4 +6,5 @@ sourcemod anti Roll anti-aim
 
 # 使用方法
 控制台输入sm_anti_roll
+
 聊天栏输入!anti_roll
